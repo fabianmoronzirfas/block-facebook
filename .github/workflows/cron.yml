@@ -24,7 +24,7 @@ jobs:
       - name: build
         run: npm ci && npm run build
       - name: Add & Commit
-        uses: EndBug/add-and-commit@v4.4.0
+        uses: EndBug/add-and-commit@v7.2.1
         with:
           add: public/data
           author_name: roboter
