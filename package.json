@@ -20,7 +20,7 @@
   "dependencies": {
     "ts-node": "9.1.1",
     "tslint": "^5.12.0",
-    "typescript": "4.2.4"
+    "typescript": "4.3.5"
   },
   "devDependencies": {
     "@inpyjamas/scripts": "0.1.11-alpha",
